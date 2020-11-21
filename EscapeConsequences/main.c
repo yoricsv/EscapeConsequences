@@ -17,7 +17,7 @@ int main(void)
 	// CODE/INSTRUCTIONS BEGIN //
 
 	// SET RIGHT LOCALIZATION BEGIN //
-	setlocale(LC_ALL, "ru_RU");
+	setlocale(LC_ALL, "Ru-RU");
 	// SET RIGHT LOCALIZATION END //
 
 /*
